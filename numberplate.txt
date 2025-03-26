@@ -1,0 +1,37 @@
+1. Feladatkiosztás  (ki mit csinalt)
+2. Projektmenedzser eszköz   
+3. Programozás eszközei    (mivel programoztunk: pycharm keretrendszer, visual studio code)
+4. A kód felépítése
+5. A kód tesztelése
+6. A program bemutatása
+
+magyar + angol
+
+Number plate detector +
+Virtual paint -
+Document scammer -
+
+
+Number Plate detector:
+Feladatkiosztás:
+	Coding: Dani
+	Intel: Marci
+	Tester: Matyi
+
+Projektmenedzser eszköz:
+	Github
+
+Programozás eszközei:
+	PyCharm (kép)
+	OpenCV (kép)
+
+A kód felépítése:
+	-importok cv2
+	-kamera kép nagyság beállítása
+	-kamera beolvasás
+	-plate felismerés
+	-mentés jpg-be a platet
+
+https://drive.google.com/file/d/19U6cYE03REZ6UEXucpV9RqRvIqIm6VKg/view?usp=sharing
+https://drive.google.com/file/d/1mOWaT5YBBx6aVgPmYYI-t4zZ9FC17EbO/view?usp=sharing
+https://drive.google.com/file/d/130WUgk323_wizmggYBGHLohWbuJGiJYW/view?usp=sharing
